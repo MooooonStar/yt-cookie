@@ -1,7 +1,7 @@
 # Netscape HTTP Cookie File
 .youtube.com	TRUE	/	TRUE	0	VISITOR_INFO1_LIVE	ozSP1vrsQq8
 .youtube.com	TRUE	/	TRUE	0	VISITOR_PRIVACY_METADATA	CgJLUhIEGgAgNw%3D%3D
-.youtube.com	TRUE	/	TRUE	0	__Secure-ROLLOUT_TOKEN	CNKP2tGl_MrqDRDggK_EtY2MAxijjMWqvZ-PAw%3D%3D
+.youtube.com	TRUE	/	TRUE	0	__Secure-ROLLOUT_TOKEN	CJr7l-6Y44S-lQEQtPPc6eeSigMYj4WAhoWhjwM%3D
 .youtube.com	TRUE	/	TRUE	0	APISID	5Rib8GXfOOX1wYIy/AXxr0rbnj05MJAVNl
 .youtube.com	TRUE	/	TRUE	0	HSID	Awd7gnWA3q60l0Fzt
 .youtube.com	TRUE	/	TRUE	0	SAPISID	sqVpSW1iK6wWu8P7/ACf6z7wgK-4_zGt0a
@@ -16,10 +16,10 @@
 .youtube.com	TRUE	/	TRUE	0	_ga	GA1.1.695514259.1754311750
 .youtube.com	TRUE	/	TRUE	0	_gcl_au	1.1.2040256536.1754311749
 .youtube.com	TRUE	/	TRUE	0	_ga_5JSYX2Q357	GS2.1.s1755928897$o12$g1$t1755930451$j60$l0$h0
-.youtube.com	TRUE	/	TRUE	0	NID	525=j6m61pcwoGhgdA0SGpoJx8r3bmm7MdsR6bAvKe6wJdf3f6OtvjnGo4abyLcRQMsP0eCgbUmcU-AlrZuCA2n1fs39Tc26dzC2N8Cb3Z8nfcen-sbbVX2Tha3Yz-X4v0jlh84ONPM_Yexwabj7mFIXDei3SVo-G1rvOichkwTgNFRnfUwblD4MJCsh6_6MMUpYO4J19Oc1VKGyFHYGJSlEhyXkhDKv7Yo
 .youtube.com	TRUE	/	TRUE	0	PREF	f7=4100&f4=4000000&f6=40000000&tz=Asia.Shanghai&f5=30000
-.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjUB5H03P9lUmF4emb_Zce2McWu2j_arlwlyOaa4diKelrl_lf5sRuT5MZaCwCKlNrZF390BQBAA
-.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjUB5H03P9lUmF4emb_Zce2McWu2j_arlwlyOaa4diKelrl_lf5sRuT5MZaCwCKlNrZF390BQBAA
-.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzWnjCku3CdbDcpFPn_m0NtnS46GQ7OPpSBQ2tS_3fYtLDtsd6pG2f0_Q5fLiKKzJepv7ys
-.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzWprRqwX3MS9Dz77g2bZ37QWqHZsHbzlHjz19wnAS5dSHqtVPtX3s9xl9z1hY4nekxWWg
-.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzWBVx23crR-WW888C7dO3ZWO-3DXtuE_FZ38iwgF6Pjh4E0CeQWMyrRKhjwwISZXs4r7w
+.youtube.com	TRUE	/	TRUE	0	NID	525=imjvvWzIyNupSatQAzeyYSo1z09UwuT9lCho7aCKul_EYqzsqDJDrbgJAZX6UQiGzJ5hgN30mueUgQpWVABWe31NDIzePfL0E04V2YCb-__wb81bdnMvROaqGUSZoxrwI-8LSv7IIGatg4DHQu0XIuidG-JQnA6hjBmHCVfSRo-5d6xme5LD0Op4pMSTkq-vcHmA_oSd9CDdRdWbMUL_pJoGJ7fUoYo
+.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzXEaC0g5or3DUcb-DngWKLTTNBeN4_NRsczgmQKQqAJZ0Br7CQPfkSn5ponxXTnGc8D96I
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzUct9YvO7SqJDR3b1z30LxRuzWS3283XfQc5gUbbTDK2fEUf2ck5WC67Ia4MuJ-eJnD1g
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjUB5H03P9xFeEM6NVzoNr1lBarKcc1M5FBlKXuebGdp2_sEoazGuxbc1aCubdkzVHKKPyQb4RAA
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzWmT_VOoYKFOry-vtelKr0A6i8K86tql7nJgMslareKlq4KcYE8gTCW35x4ghlPjLAIIg
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjUB5H03P9xFeEM6NVzoNr1lBarKcc1M5FBlKXuebGdp2_sEoazGuxbc1aCubdkzVHKKPyQb4RAA
