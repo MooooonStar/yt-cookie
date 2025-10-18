@@ -19,8 +19,8 @@
 .youtube.com	TRUE	/	TRUE	0	_ga_5JSYX2Q357	GS2.1.s1760454226$o63$g0$t1760454226$j60$l0$h0
 .youtube.com	TRUE	/	TRUE	0	NID	525=VZsC3iDgbKr1zBcsPKFl3a7qrFaWPGn16chAi-_2W4jdYOkf5hgixn1ZHU-UQrd_osidrNohaGImyhSM-4Q6C-2aTUogrRwrEmvSeh5D7VvIp7USNHF34oPfv0zVMcLrV3Jw9yraahzrO7z0LYql5YumG2g9RdHK4AfBHBur0MMzmsYjo69e6DV5eP08L7-emOldzy7iIDGKgqsocHXm07VKrBjgpPI
 .youtube.com	TRUE	/	TRUE	0	PREF	f7=4100&f4=4000000&tz=Asia.Shanghai&f5=20000&f6=40000000
-.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzXbAjJlyyqUgMRuIbR652_QwtIXVChGJMiDDHriQGT_Dau5qgie34TLYUBjyRP2A9k2aXI
-.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzWaPgPsLw_c32FjDdsSgPakcRj5xENx6mkVwwV9UcMeixpioPMohlhHgOMQzacO6R8MGA
-.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjUBmkD5Sx9tG0d4t1ERlQLlR5Hyk2dn9apyeSBK231SSwftFEeULVcW-XZWFBkRZ3DBRv5MTxAA
-.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzWZbIh3DOuPDhqExQQ2bcWwIukplXdkDsRXGfDdpAmynpI_wl-9d9dU2QSkT7JCSytpNQ
-.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjUBmkD5Sx9tG0d4t1ERlQLlR5Hyk2dn9apyeSBK231SSwftFEeULVcW-XZWFBkRZ3DBRv5MTxAA
+.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzVwrTfX3Zg29lxM6qLpglgh6beiwtWi4WgPbpNZexNLUodPf-TiWRfa9Hg6qwsD8jwKAWY
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzW41Ghu2b25Yt-hiDj4M8sLw9DL_ZG4BVn3LyToD2gzcCD_2N9alZAggM_XbTBfd1jOBQ
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjUBmkD5Swv5KCMQZD9Sdci0q_ZsANUJkZPqcGRCGZbZfgManlS6eUQJ37ZmnYKZ_lNbPtkvGhAA
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzVwox7xK5zMqNjOGQwcUeQQbAmmEzQs3Nsz6cidHknohEdWUo2nroDSMF_sUWbQe6a2bQ
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjUBmkD5Swv5KCMQZD9Sdci0q_ZsANUJkZPqcGRCGZbZfgManlS6eUQJ37ZmnYKZ_lNbPtkvGhAA
