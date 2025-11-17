@@ -36,11 +36,67 @@ def get_youtube_cookies():
         print(f"获取 cookie 失败: {str(e)}")
         return False
 
+def get_bilibili_cookies():
+    """获取 Bilibili 的 cookie 并保存为 biliup 所需的 JSON 格式"""
+    url = 'https://www.bilibili.com'
+    
+    try:
+        # 从 Chrome 获取 cookie
+        cookies = chrome_cookies(url)
+        
+        # 转换为 biliup 所需的 JSON 格式 (参考 cookies.json)
+        cookie_data = {
+            "cookie_info": {
+                "cookies": [],
+                "domains": [
+                    ".bilibili.com",
+                    ".biligame.com", 
+                    ".bigfun.cn",
+                    ".bigfunapp.cn",
+                    ".dreamcast.hk"
+                ]
+            },
+            "sso": [
+                "https://passport.bilibili.com/api/v2/sso",
+                "https://passport.biligame.com/api/v2/sso",
+                "https://passport.bigfunapp.cn/api/v2/sso"
+            ],
+            "token_info": {
+                "access_token": "",
+                "expires_in": 15552000,
+                "mid": 0,
+                "refresh_token": ""
+            },
+            "platform": "BiliTV"
+        }
+        print(cookies.items())
+        # 添加 cookie 信息
+        for name, value in cookies.items():
+            cookie_data["cookie_info"]["cookies"].append({
+                "expires": 0,
+                "http_only": 0,
+                "name": name,
+                "secure": 0,
+                "value": value
+            })
+        
+        # 保存到文件
+        with open('cookies.json', 'w', encoding='utf-8') as f:
+            json.dump(cookie_data, f, ensure_ascii=False, indent=2)
+            
+        print(f"成功获取 {len(cookies)} 个 Bilibili cookie")
+        return True
+    
+    except Exception as e:
+        print(f"获取 Bilibili cookie 失败: {str(e)}")
+        return False
+
 def git_commit_and_push():
     """提交并推送更改到 GitHub"""
     try:
         repo = Repo(os.getcwd())
         repo.git.add('cookies.txt')
+        repo.git.add('cookies.json')
         
         # 配置 Git 用户信息 (如果尚未配置)
         if not repo.config_reader().has_option('user', 'name'):
@@ -64,5 +120,5 @@ def git_commit_and_push():
         return False
 
 if __name__ == "__main__":
-    if get_youtube_cookies():
+    if get_youtube_cookies() :
         git_commit_and_push()

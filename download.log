@@ -1,0 +1,2 @@
+2025-11-17 17:25:00  INFO ThreadId(15) stream_gears::server: crates/stream-gears/src/server.rs:370: Tracing initialized with daily rotation
+2025-11-17 17:25:22  INFO ThreadId(15) biliup_cli::uploader: crates/biliup-cli/src/uploader.rs:54: 登录成功，数据保存在File { fd: 18, path: "/Users/mingxingyu/Documents/snow/poker/yt-cookie/cookies.json", read: false, write: true }
