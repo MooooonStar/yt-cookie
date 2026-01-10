@@ -16,10 +16,10 @@
 .youtube.com	TRUE	/	TRUE	0	_gcl_au	1.1.2122931466.1761566029
 .youtube.com	TRUE	/	TRUE	0	_ga	GA1.1.1848160205.1761566029
 .youtube.com	TRUE	/	TRUE	0	_ga_5JSYX2Q357	GS2.1.s1767881243$o27$g0$t1767881243$j60$l0$h0
-.youtube.com	TRUE	/	TRUE	0	PREF	tz=Asia.Shanghai&f4=4000000&f6=40000000&f7=100&f5=20000
 .youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjQB7I_69PrIE4UbehQJsFhDoHXak3wLM7iLbvJtrVRBliDFZyFxy0u1qV9eJcmhBJhzzcRcEAA
 .youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjQB7I_69PrIE4UbehQJsFhDoHXak3wLM7iLbvJtrVRBliDFZyFxy0u1qV9eJcmhBJhzzcRcEAA
 .youtube.com	TRUE	/	TRUE	0	YSC	mKzRaLuKNCI
-.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzWT416mSx3bpApPn08gtdYl790RibERxfIaAPp7KmNqkkg3wfYKB_pfn214LdHKFNLfM3w
-.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzXIFlpSYf3y-nON95onAzni613TDrXcePMk1Wud4Mf7Q2jIlisSuefS9DRYFrlBJO4Ciw
-.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzUWEHIcLVn0X_jUZ9t-ML9m1bOsLuOXU5Zub9Wwey7fUkZBQxsFxhlxs0Xbcw5p19VWAw
+.youtube.com	TRUE	/	TRUE	0	PREF	tz=Asia.Shanghai&f4=4000000&f6=40000000&f7=100&f5=20000
+.youtube.com	TRUE	/	TRUE	0	SIDCC	AKEyXzVFz6oQUXjtJqDZNsq5yPv0dYwwRg9gtVJ4jLL-g8v8NQD-Vojus_5M-ebnIawTBHxef-M
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzVhd_3h4mNWok6qUq7tmiH64vLFfrXnp4eXSOmDIJqG3j2qIow00smIE2k7luPrHtI_Fw
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzXz9HO9XDVhQHg3v7PtPFUQkV_VUQl47MhuJOW031njyLCLTri3aR9yjY0VuyurAhUigQ
